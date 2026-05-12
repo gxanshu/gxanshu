@@ -20,10 +20,4 @@ I design around NASA's *Power of Ten* and TigerBeetle's *Tiger Style* — defens
 
 I publish essays on engineering, Linux, and philosophy at [gxanshu.in/blog](https://gxanshu.in/blog).
 
-### Contact
-
-- Website — [gxanshu.in](https://gxanshu.in)
-- X — [@gxanshu](https://x.com/gxanshu)
-- Sponsor — [github.com/sponsors/gxanshu](https://github.com/sponsors/gxanshu)
-
 Open to conversations on systems engineering, open source, and interesting problems.
