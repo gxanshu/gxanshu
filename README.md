@@ -2,7 +2,7 @@
 
 **Full-Stack & Systems Engineer** — Rajasthan, India
 
-I've spent 6+ years shipping production software across web, mobile, and Linux — from TypeScript monorepos to Zig-powered print distributions running on Raspberry Pi. I care about systems that last: clear code, honest abstractions, and performance that holds up in the real world.
+I've spent 6+ years shipping production software across web, mobile, and Desktop & Linux — from TypeScript monorepos to Zig-powered print distributions running on Raspberry Pi. I care about systems that last: clear code, honest abstractions, and performance that holds up in the real world.
 
 Currently building infrastructure and full-stack systems at [PantryClub](https://groceryclub.shop). Previously at [BHuman.ai](https://www.bhuman.ai), and independently across open source for several years before that.
 
@@ -19,5 +19,6 @@ I design around NASA's *Power of Ten* and TigerBeetle's *Tiger Style* — defens
 ### Writing
 
 I publish essays on engineering, Linux, and philosophy at [gxanshu.in/blog](https://gxanshu.in/blog).
+
 
 Open to conversations on systems engineering, open source, and interesting problems.
