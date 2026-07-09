@@ -4,7 +4,7 @@
 
 I've spent 6+ years shipping production software across web, mobile, and Desktop & Linux — from TypeScript monorepos to Zig-powered print distributions running on Raspberry Pi. I care about systems that last: clear code, honest abstractions, and performance that holds up in the real world.
 
-Currently building infrastructure and full-stack systems at [PantryClub](https://groceryclub.shop). Previously at [BHuman.ai](https://www.bhuman.ai), and independently across open source for several years before that.
+Currently building infrastructure and full-stack systems at [PantryClub](https://pantryclub.co.za). Previously at [BHuman.ai](https://www.bhuman.ai), and independently across open source for several years before that.
 
 ### What I work on
 
