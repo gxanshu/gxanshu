@@ -1,24 +1,19 @@
 # Anshu Meena
 
-**Full-Stack & Systems Engineer** — Rajasthan, India
+**Full-Stack & Systems Engineer** from Rajasthan, India
 
-I've spent 6+ years shipping production software across web, mobile, and Desktop & Linux — from TypeScript monorepos to Zig-powered print distributions running on Raspberry Pi. I care about systems that last: clear code, honest abstractions, and performance that holds up in the real world.
+I've been building software for the last 7+ years, mostly across web, mobile, desktop, and Linux. That has taken me from TypeScript monorepos to Zig-based print systems running on Raspberry Pis.
 
-Currently building infrastructure and full-stack systems at [PantryClub](https://pantryclub.co.za). Previously at [BHuman.ai](https://www.bhuman.ai), and independently across open source for several years before that.
+I like working close to the actual problem. I care about software that's easy to understand, doesn't hide too much behind abstractions, and keeps working when it leaves the happy path.
 
-### What I work on
-
-- **Frontend** — TypeScript, SolidJS, React, Next.js, Astro, Tailwind
-- **Backend** — Go, Node.js, Bun, Hono, gRPC, Kysely, MySQL, PostgreSQL
-- **Systems & tooling** — Zig, Rust, C, Python, Bash, Linux, CUPS, Electron
+Right now, I'm building infrastructure and full-stack systems at [PantryClub](https://pantryclub.co.za). Before that, I worked at [BHuman.ai](https://www.bhuman.ai), along with spending several years building and contributing to open source projects independently.
 
 ### Principles
 
-I design around NASA's *Power of Ten* and TigerBeetle's *Tiger Style* — defensive, assertive, and built to fail loudly. Simplicity over cleverness, and code that's boring enough to maintain a decade from now.
+A lot of how I write software comes from NASA's *Power of Ten* and TigerBeetle's *Tiger Style*. Keep things simple. Make assumptions explicit. Fail loudly when something is wrong. Prefer straightforward code over clever code.
 
 ### Writing
 
-I publish essays on engineering, Linux, and philosophy at [gxanshu.in/blog](https://gxanshu.in/blog).
+I write about engineering, Linux, and philosophy at [gxanshu.in/blog](https://gxanshu.in/blog).
 
-
-Open to conversations on systems engineering, open source, and interesting problems.
+I'm always interested in talking about systems engineering, open source, Linux, or a problem that's difficult for a good reason.
